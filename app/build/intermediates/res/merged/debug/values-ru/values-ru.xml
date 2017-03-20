@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- From: file:/C:/KP-for-Android-Studio/app/src/main/res/values-ru/strings.xml -->
+    <eat-comment/>
     <string-array name="agenda_action_chairman">
         <item>Посмотреть слайды</item>
         <item>Профиль пользователя</item>
@@ -9,6 +11,8 @@
         <item>Просмотр слайдов</item>
         <item>Профиль пользователя</item>
     </string-array>
+    <!-- From: file:/C:/KP-for-Android-Studio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-ru/values-ru.xml -->
+    <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
     <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
@@ -22,6 +26,8 @@
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <!-- From: file:/C:/KP-for-Android-Studio/app/src/main/res/values-ru/strings.xml -->
+    <eat-comment/>
     <string name="action_edit">Редактировать</string>
     <string name="action_save">Сохранить</string>
     <string name="action_settings">Настройки</string>
@@ -32,7 +38,7 @@
     <string name="agendaNotAvailable">Сервис программы мероприятия недоступен. \nПовторите попытку позднее</string>
     <string name="agendaRefresh">Обновить программу мероприятия</string>
     <string name="agenda_descr">Программа мероприятия</string>
-    <string name="agenda_help_content"> 	    &lt;html>         &lt;body>         	&lt;p>В данном окне отображается программа мероприятия и список участников&lt;/p>         	         	&lt;b>--&lt;/b>&amp;#32;Если вы являетесь участником, ваше имя будет выделено&lt;br>&lt;br>         	&lt;b>--&lt;/b>&amp;#32;Нажатие на профиль участника вызовет контекстное меню&lt;br>         &lt;/body>         &lt;/html> 	    </string>
+    <string name="agenda_help_content"><![CDATA[ 	    <html>         <body>         	<p>В данном окне отображается программа мероприятия и список участников</p>         	         	<b>--</b>&#32;Если вы являетесь участником, ваше имя будет выделено<br><br>         	<b>--</b>&#32;Нажатие на профиль участника вызовет контекстное меню<br>         </body>         </html> 	    ]]></string>
     <string name="anonim">Войти как наблюдатель</string>
     <string name="anonimJoinMsg">Вы хотите совершить анонимный вход?</string>
     <string name="avail_services">Сервисы</string>
@@ -69,7 +75,7 @@
     <string name="help_presentation">Справка</string>
     <string name="installAdobe">Установить PDF Viewer</string>
     <string name="joiningSR">Подключение</string>
-    <string name="kp_help_content"> 	    &lt;html>         &lt;body>         	&lt;h3>Добро пожаловать в SmartRoom&lt;/h3>         	Выберите пункт  &lt;b>Регистрация пользователя&lt;/b> из меню для регистрации.&lt;br>&lt;br>         	&lt;b>Войти как гость&lt;/b>: требуется лишь имя.&lt;br>&lt;br>         	&lt;b>Анонимный вход&lt;/b>: оставьте поля логина и пароля пустыми&lt;br>&lt;br>         	         	&lt;div>Описание полей:&lt;br>         		&lt;b>IP&lt;/b> - IP адрес&lt;br>         		&lt;b>Порт&lt;/b> - номер порта&lt;br>         		&lt;b>Логин&lt;/b> - логин при регистрации&lt;br>         		&lt;b>Пароль&lt;/b> - ваш пароль         	&lt;/div>         &lt;/body>         &lt;/html> 	    </string>
+    <string name="kp_help_content"><![CDATA[ 	    <html>         <body>         	<h3>Добро пожаловать в SmartRoom</h3>         	Выберите пункт  <b>Регистрация пользователя</b> из меню для регистрации.<br><br>         	<b>Войти как гость</b>: требуется лишь имя.<br><br>         	<b>Анонимный вход</b>: оставьте поля логина и пароля пустыми<br><br>         	         	<div>Описание полей:<br>         		<b>IP</b> - IP адрес<br>         		<b>Порт</b> - номер порта<br>         		<b>Логин</b> - логин при регистрации<br>         		<b>Пароль</b> - ваш пароль         	</div>         </body>         </html> 	    ]]></string>
     <string name="loginMenu">Войти</string>
     <string name="manual">Руководство пользователя</string>
     <string name="menu_endPresentation">Завершить презентацию</string>
@@ -93,7 +99,7 @@
     <string name="presUnreach">Пользователь не в сети или не имеет презентации.</string>
     <string name="presentation">Презентация</string>
     <string name="presentation_descr">Показ и управление презентацией</string>
-    <string name="presentation_help_content"> 	    &lt;html>         &lt;body>         	&lt;p>В данном окне вы можете просматривать презентации и управлять своей.&lt;/p>         	         	&lt;b>--&lt;/b>&amp;#32;Используйте пункт "Обновить" меню, чтобы заново подключиться.&lt;br>&lt;br>         	&lt;b>--&lt;/b>&amp;#32;Значок микрофона позволяет использовать ваше устройство как микрофон.&lt;br>&lt;br>         	&lt;b>--&lt;/b>&amp;#32;Переключайте слайды вашего доклада, используя стрелки "влево" и "вправо".&lt;br>         &lt;/body>         &lt;/html> 	    </string>
+    <string name="presentation_help_content"><![CDATA[ 	    <html>         <body>         	<p>В данном окне вы можете просматривать презентации и управлять своей.</p>         	         	<b>--</b>&#32;Используйте пункт "Обновить" меню, чтобы заново подключиться.<br><br>         	<b>--</b>&#32;Значок микрофона позволяет использовать ваше устройство как микрофон.<br><br>         	<b>--</b>&#32;Переключайте слайды вашего доклада, используя стрелки "влево" и "вправо".<br>         </body>         </html> 	    ]]></string>
     <string name="press2reconnect">Нажмите кнопку для подключения</string>
     <string name="profileLabel">Профиль</string>
     <string name="readingMan">Руководство SmartRoom</string>

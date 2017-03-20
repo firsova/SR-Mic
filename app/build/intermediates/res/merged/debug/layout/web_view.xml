@@ -17,4 +17,4 @@
         android:layout_width="match_parent"
         android:layout_height="fill_parent"
         android:id="@+id/webView" />
-</LinearLayout>
+</LinearLayout><!-- From: file:/C:/KP-for-Android-Studio/app/src/main/res/layout/web_view.xml -->
