@@ -22,4 +22,4 @@
     	    android:layout_below="@id/service_name"
     	    android:paddingLeft="20sp"/>
     
-</RelativeLayout><!-- From: file:/C:/KP-for-Android-Studio/app/src/main/res/layout-land/services_interface.xml -->
+</RelativeLayout>

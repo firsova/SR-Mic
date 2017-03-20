@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-large-v4/drawer_header.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-large/drawer_header.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-large-v4/profile.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-large/profile.xml"
+    }
+]

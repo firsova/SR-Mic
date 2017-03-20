@@ -31,4 +31,4 @@
     <item android:id="@+id/reconnect"
         android:title="@string/reconnectText"/>
     
-</menu><!-- From: file:/C:/KP-for-Android-Studio/app/src/main/res/menu/projector_menu.xml -->
+</menu>

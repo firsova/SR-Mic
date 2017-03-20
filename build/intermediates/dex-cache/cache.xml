@@ -2,53 +2,85 @@
 <items version="2" >
 
     <item
-        jar="C:\KP-for-Android-Studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="C:\KP-for-Android-Studio\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c94286d502dc0e3038e4fcf6ed7e6b77bc724b84.jar" />
-    </item>
-    <item
-        jar="C:\KP-for-Android-Studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\KP-for-Android-Studio\app\build\intermediates\pre-dexed\debug\classes-14910ffdb3c303a7ad1f6ef28e406b5f53d4facb.jar" />
-    </item>
-    <item
-        jar="C:\KP-for-Android-Studio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="C:\KP-for-Android-Studio\app\build\intermediates\pre-dexed\debug\classes-f22b4eff6f2169125890d2e6733dd61563ff794e.jar" />
-    </item>
-    <item
-        jar="C:\KP-for-Android-Studio\app\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\3.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        is-multidex="true"
+        jar="/Users/surik/.android/build-cache/f6f33d30359a231e759b473c45643bca04f06aec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="d2992ef4fc94783ae5165002a2e81d11a59f17d7">
-        <dex dex="C:\KP-for-Android-Studio\app\build\intermediates\pre-dexed\debug\classes-4203c5e3d2e8fc07847700b868d63eb032142ea1.jar" />
+        <dex dex="/Users/surik/WORK/SR-Mic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8a81bd07d46135ae7a76b8069c30e05d836d231/classes.dex" />
     </item>
     <item
-        jar="C:\KP-for-Android-Studio\app\libs\jspeex.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="5fd8184cfea4c5aa4e3c14bb3d21fd83539d6f47">
-        <dex dex="C:\KP-for-Android-Studio\app\build\intermediates\pre-dexed\debug\jspeex-11132ada43640c4edae01ddde6a76b6501c1b23c.jar" />
+        is-multidex="true"
+        jar="/Users/surik/.android/build-cache/7687b6ea062dd081c0522021b3258664efe9ae51/output/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/surik/WORK/SR-Mic/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_f38fb932b70076d73ea99d2b9f259b33409902d4/classes.dex" />
     </item>
     <item
-        jar="C:\Users\Андрей\Desktop\      \Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        is-multidex="true"
+        jar="/Users/surik/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="C:\KP-for-Android-Studio\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-d3ea39817bed4cd14effc4e115c681c04ad1c539.jar" />
+        <dex dex="/Users/surik/WORK/SR-Mic/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_d3cf00152639a5b2f32a271f894c0231be1a267f/classes.dex" />
     </item>
     <item
-        jar="C:\KP-for-Android-Studio\app\build\intermediates\exploded-aar\com.mikepenz\iconics\1.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        is-multidex="true"
+        jar="/Users/surik/.android/build-cache/3463ea75dbab41afbd101c8267bb6ffa4496f077/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="720dcbcd8744b145da58d835d7e4dbc546886df7">
-        <dex dex="C:\KP-for-Android-Studio\app\build\intermediates\pre-dexed\debug\classes-0c59dac0a041254e71fe37ce41f7d6da5eb4f83f.jar" />
+        <dex dex="/Users/surik/WORK/SR-Mic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b86e0bc608309a48068cc71b55ab222943d91e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surik/WORK/SR-Mic/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3793a4877c553ae00fd1c353a1b7d779a3870d49">
+        <dex dex="/Users/surik/WORK/SR-Mic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b75dd831c6e8767ee932cac7ff1f503f4d0b1f75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surik/.android/build-cache/7687b6ea062dd081c0522021b3258664efe9ae51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/surik/WORK/SR-Mic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23f86408fa3dbd553b9b7c25223192aec24c66f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surik/WORK/SR-Mic/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/surik/WORK/SR-Mic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_768ff19aa80024a7d1f81a52e70d327d69f27964/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surik/.android/build-cache/d973f705bcf0d50be3faae23fd18745037aca630/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/surik/WORK/SR-Mic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfa10af0d9e89fcefd82e42cb1b6c335f7cfd2e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/surik/WORK/SR-Mic/app/libs/jspeex.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fd8184cfea4c5aa4e3c14bb3d21fd83539d6f47">
+        <dex dex="/Users/surik/WORK/SR-Mic/app/build/intermediates/transforms/dex/debug/folders/1000/2/jspeex_25baa2a507358229a1c251e20deb241932ed8781/classes.dex" />
     </item>
 
 </items>

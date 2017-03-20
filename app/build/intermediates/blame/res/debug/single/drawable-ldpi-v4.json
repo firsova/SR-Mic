@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/no_image.jpg",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/drawable-ldpi/no_image.jpg"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/user.jpg",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/drawable-ldpi/user.jpg"
+    }
+]
