@@ -14,4 +14,4 @@
 
     <item
         android:drawable="@drawable/left_arrow" />
-</selector> 
+</selector> <!-- From: file:/C:/KP-for-Android-Studio/app/src/main/res/drawable/left_selector.xml -->

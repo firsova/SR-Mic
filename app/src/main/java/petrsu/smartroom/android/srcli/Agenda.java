@@ -2,21 +2,16 @@ package petrsu.smartroom.android.srcli;
 
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
-import android.content.ActivityNotFoundException;
-import android.content.BroadcastReceiver;
-import android.content.Context;
-import android.content.DialogInterface;
-import android.content.Intent;
-import android.content.IntentFilter;
-import android.content.SharedPreferences;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Environment;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.Toolbar;
+import android.widget.*;
+
+import java.util.ArrayList;
+
 import android.text.Html;
 import android.util.Log;
 import android.view.KeyEvent;
@@ -24,21 +19,13 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ImageButton;
-import android.widget.ImageView;
-import android.widget.ListView;
-import android.widget.SimpleAdapter;
-import android.widget.Toast;
-
-import com.mikepenz.iconics.typeface.FontAwesome;
-import com.mikepenz.materialdrawer.Drawer;
-import com.mikepenz.materialdrawer.DrawerBuilder;
-import com.mikepenz.materialdrawer.model.DividerDrawerItem;
-import com.mikepenz.materialdrawer.model.PrimaryDrawerItem;
-import com.mikepenz.materialdrawer.model.SecondaryDrawerItem;
-import com.mikepenz.materialdrawer.model.SectionDrawerItem;
-import com.mikepenz.materialdrawer.model.interfaces.IDrawerItem;
+import android.content.ActivityNotFoundException;
+import android.content.BroadcastReceiver;
+import android.content.Context;
+import android.content.DialogInterface;
+import android.content.Intent;
+import android.content.IntentFilter;
+import android.content.SharedPreferences;
 
 import java.io.BufferedInputStream;
 import java.io.File;
@@ -49,7 +36,20 @@ import java.io.OutputStream;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
-import java.util.ArrayList;
+
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+
+import com.mikepenz.iconics.typeface.FontAwesome;
+import com.mikepenz.materialdrawer.Drawer;
+import com.mikepenz.materialdrawer.DrawerBuilder;
+import com.mikepenz.materialdrawer.model.DividerDrawerItem;
+import com.mikepenz.materialdrawer.model.PrimaryDrawerItem;
+import com.mikepenz.materialdrawer.model.SecondaryDrawerItem;
+import com.mikepenz.materialdrawer.model.SectionDrawerItem;
+import com.mikepenz.materialdrawer.model.interfaces.IDrawerItem;
+
+import java.lang.Thread;
 
 /**
  *
@@ -161,11 +161,11 @@ public class Agenda extends ActionBarActivity {// implements  View.OnClickListen
 						new SectionDrawerItem().withName(R.string.services),
 						new PrimaryDrawerItem().withName(R.string.agenda).withIcon(FontAwesome.Icon.faw_server),
 						new PrimaryDrawerItem().withName(R.string.presentation).withIcon(FontAwesome.Icon.faw_image),
+
                         new PrimaryDrawerItem().withName("SocialProgram").withIcon(FontAwesome.Icon.faw_globe),
-						new PrimaryDrawerItem().withName("Queue Buttons").withIcon(FontAwesome.Icon.faw_microphone),
-						new PrimaryDrawerItem().withName("Queue List").withIcon(FontAwesome.Icon.faw_microphone),
 
                         new SectionDrawerItem().withName(R.string.discussion),
+
                         new PrimaryDrawerItem().withName(R.string.discussionCur).withIcon(FontAwesome.Icon.faw_comment_o),
                         new PrimaryDrawerItem().withName(R.string.discussionList).withIcon(FontAwesome.Icon.faw_comments_o),
 
@@ -192,31 +192,25 @@ public class Agenda extends ActionBarActivity {// implements  View.OnClickListen
                     case 3:
                         gotoSocialProgram();
                         break;
-					case 4:
-						gotoQueueButtons();
-						break;
-					case 5:
-						gotoQueueList();
-						break;
-                    case 7:
+                    case 5:
                         gotoCurDisq();
                         break;
-                    case 8:
+                    case 6:
                         gotoDisqList();
                         break;
-                    case 10:
+                    case 8:
                         gotoSettings();
                         break;
-                    case 11:
+                    case 9:
                         updateCurTimeslot();
                         break;
-                    case 13:
+                    case 11:
                         openHelp();
                         break;
-                    case 14:
+                    case 12:
                         gotoManual();
                         break;
-                    case 16:
+                    case 14:
                         exitApp();
                         break;
                     default:
@@ -436,24 +430,8 @@ public class Agenda extends ActionBarActivity {// implements  View.OnClickListen
 		startActivity(intentSettings);
 	}
 
-	/**========================================================================
-	 * GO TO QUEUE BUTTONS
-	 *=========================================================================
-	 */
-	private void gotoQueueButtons(){
-		Intent intentQueueButtons = new Intent();
-		intentQueueButtons.setClass(this, QueueButtons.class);
-		startActivity(intentQueueButtons);
-	}
-	/**========================================================================
-	 * GO TO QUEUE LIST
-	 *=========================================================================
-	 */
-	private void gotoQueueList(){
-		Intent intentQueueList = new Intent();
-		intentQueueList.setClass(this, QueueList.class);
-		startActivity(intentQueueList);
-	}
+
+
 	@Override
 	protected void onSaveInstanceState(Bundle outState) {
 		super.onSaveInstanceState(outState);

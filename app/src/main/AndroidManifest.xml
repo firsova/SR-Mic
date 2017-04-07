@@ -89,22 +89,7 @@
             android:label="@string/dqBrowser">
 
         </activity>
-
-        <activity
-            android:name="petrsu.smartroom.android.srcli.QueueButtons"
-            android:label="QueueButtons">
-        </activity>
-
-        <activity
-            android:name="petrsu.smartroom.android.srcli.QueueList"
-            android:label="QueueList">
-        </activity>
-
-        <activity
-            android:name="petrsu.smartroom.android.srcli.MicActivity"
-            android:label="MicActivity">
-        </activity>
-
+             
     </application>
 
 </manifest>

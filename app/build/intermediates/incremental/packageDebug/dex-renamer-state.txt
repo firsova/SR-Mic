@@ -1,7 +1,0 @@
-#Fri Apr 07 09:01:54 MSK 2017
-base.0=/Users/surik/WORK/SR-Mic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_768ff19aa80024a7d1f81a52e70d327d69f27964
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/surik/WORK/SR-Mic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b75dd831c6e8767ee932cac7ff1f503f4d0b1f75/classes.dex
-base.1=/Users/surik/WORK/SR-Mic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b75dd831c6e8767ee932cac7ff1f503f4d0b1f75
-file.0=/Users/surik/WORK/SR-Mic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_768ff19aa80024a7d1f81a52e70d327d69f27964/classes.dex
