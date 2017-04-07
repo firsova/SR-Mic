@@ -5,4 +5,4 @@
         android:orderInCategory="100"
         android:title="@string/action_settings"/>
 
-</menu><!-- From: file:/C:/KP-for-Android-Studio/app/src/main/res/menu/main.xml -->
+</menu>

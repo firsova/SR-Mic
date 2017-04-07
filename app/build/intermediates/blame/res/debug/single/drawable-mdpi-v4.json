@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/button.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/drawable-mdpi/button.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/no_image.jpg",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/drawable-mdpi/no_image.jpg"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/title_button.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/drawable-mdpi/title_button.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/title_button_pressed.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/drawable-mdpi/title_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/user.jpg",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/drawable-mdpi/user.jpg"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/button_pressed.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/drawable-mdpi/button_pressed.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-land/web_view.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-land/web_view.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-land/agenda_interface.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-land/agenda_interface.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-land/profile.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-land/profile.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-land/projector_interface.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-land/projector_interface.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-land/agenda_item.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-land/agenda_item.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-land/services_interface_ext.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-land/services_interface_ext.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-land/kp_interface.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-land/kp_interface.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-land/agenda_interface_ext.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-land/agenda_interface_ext.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-land/services_interface.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-land/services_interface.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-land/guest_registration.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-land/guest_registration.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-land/drawer_header.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-land/drawer_header.xml"
+    }
+]

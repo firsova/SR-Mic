@@ -3,4 +3,4 @@
        android:shape="oval">
     <solid android:color="@color/material_drawer_accent"/>
     <stroke android:width="2dp" android:color="@color/material_drawer_background" />
-</shape><!-- From: file:/C:/KP-for-Android-Studio/app/src/main/res/drawable/circle_btn.xml -->
+</shape>

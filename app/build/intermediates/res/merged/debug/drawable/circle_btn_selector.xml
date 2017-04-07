@@ -5,4 +5,4 @@
     <item android:drawable="@drawable/circle_btn_pressed"
           android:state_focused="true" />
     <item android:drawable="@drawable/circle_btn" />
-</selector><!-- From: file:/C:/KP-for-Android-Studio/app/src/main/res/drawable/circle_btn_selector.xml -->
+</selector>

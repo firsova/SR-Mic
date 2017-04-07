@@ -7,4 +7,4 @@
     android:scaleType="fitCenter"
     android:src="@drawable/menulogo1000">
 
-</ImageView><!-- From: file:/C:/KP-for-Android-Studio/app/src/main/res/layout/drawer_header.xml -->
+</ImageView>

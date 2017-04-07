@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-xlarge-v4/agenda_interface.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-xlarge/agenda_interface.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-xlarge-v4/agenda_interface_ext.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-xlarge/agenda_interface_ext.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-xlarge-v4/guest_registration.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-xlarge/guest_registration.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-xlarge-v4/projector_interface.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-xlarge/projector_interface.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-xlarge-v4/profile.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-xlarge/profile.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-xlarge-v4/services_interface_ext.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-xlarge/services_interface_ext.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-xlarge-v4/services_interface.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-xlarge/services_interface.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-xlarge-v4/web_view.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-xlarge/web_view.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-xlarge-v4/kp_interface.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-xlarge/kp_interface.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-xlarge-v4/agenda_item.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-xlarge/agenda_item.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout-xlarge-v4/drawer_header.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout-xlarge/drawer_header.xml"
+    }
+]

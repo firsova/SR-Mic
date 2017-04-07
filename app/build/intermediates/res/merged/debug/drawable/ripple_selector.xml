@@ -2,4 +2,4 @@
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
         android:color="@color/material_drawer_accent_700">
     <item android:drawable="@drawable/circle_btn_selector"/>
-</ripple><!-- From: file:/C:/KP-for-Android-Studio/app/src/main/res/drawable/ripple_selector.xml -->
+</ripple>

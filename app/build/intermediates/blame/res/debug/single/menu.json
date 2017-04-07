@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/menu/agenda_menu.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/menu/agenda_menu.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/menu/profile.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/menu/profile.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/menu/projector_menu.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/menu/projector_menu.xml"
+    },
+    {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/menu/kp_bar.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/menu/kp_bar.xml"
+    }
+]
