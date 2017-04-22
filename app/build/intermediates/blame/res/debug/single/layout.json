@@ -228,6 +228,10 @@
         "source": "/Users/surik/.android/build-cache/d973f705bcf0d50be3faae23fd18745037aca630/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
+        "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/surik/WORK/SR-Mic/app/src/main/res/layout/list_item.xml"
+    },
+    {
         "merged": "/Users/surik/WORK/SR-Mic/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/Users/surik/.android/build-cache/d973f705bcf0d50be3faae23fd18745037aca630/output/res/layout/abc_action_bar_up_container.xml"
     },

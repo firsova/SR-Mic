@@ -1,4 +1,4 @@
-#Sun Mar 19 12:30:51 MSK 2017
+#Sat Apr 22 13:01:52 MSK 2017
 base.0=/Users/surik/WORK/SR-Mic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_768ff19aa80024a7d1f81a52e70d327d69f27964
 renamed.1=classes2.dex
 renamed.0=classes.dex

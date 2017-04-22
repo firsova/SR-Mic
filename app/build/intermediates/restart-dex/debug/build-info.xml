@@ -3,45 +3,35 @@
     abi="x86"
     api-level="23"
     build-mode="COLD"
-    density="560dpi"
+    density="hdpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1489918032871"
+    timestamp="1492877089719"
     token="-4140960822202123899"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="2058" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="160" />
+        duration="0" />
     <task
         name="verifier"
-        duration="33" />
-
-    <artifact
-        location="/Users/surik/WORK/SR-Mic/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/surik/WORK/SR-Mic/app/build/outputs/apk/app-debug.apk"
-        type="SPLIT_MAIN" />
+        duration="0" />
 
     <build
         build-mode="FULL"
-        timestamp="1489917819467"
+        timestamp="1492876427633"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/surik/WORK/SR-Mic/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/surik/WORK/SR-Mic/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/surik/WORK/SR-Mic/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="/Users/surik/WORK/SR-Mic/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/Users/surik/WORK/SR-Mic/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/Users/surik/WORK/SR-Mic/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
@@ -70,17 +60,13 @@
         <artifact
             location="/Users/surik/WORK/SR-Mic/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1489918032871"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/surik/WORK/SR-Mic/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
         <artifact
             location="/Users/surik/WORK/SR-Mic/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
+    <build
+        build-mode="COLD"
+        timestamp="1492877089719"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
