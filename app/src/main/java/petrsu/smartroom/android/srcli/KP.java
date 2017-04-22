@@ -68,6 +68,7 @@ public class KP extends ActionBarActivity implements View.OnClickListener {
 	private static EditText editPort;	
 	private ArrayList<String> timeslotList;
 	private String lastState;
+	public static String gettingUsername;
 	
 	public static native int connectSmartSpace(String hostname, String ip,  int port);
 	public static native int loadTimeslotList(Agenda obj);
@@ -108,6 +109,12 @@ public class KP extends ActionBarActivity implements View.OnClickListener {
 	public static native boolean sectionChanged();
 	public static native int startVideo(String url);
 	public static native void stopVideo();
+
+	public static native int registerRequest(String username);
+	public static native int existingRequest(String username);
+	public static native int deleteRequest(String username);
+	public static native int getRequestCount();
+	public static native String getRequestList(int count);
 	
 	/* Loading of shared library */
 	static {
@@ -545,7 +552,7 @@ public class KP extends ActionBarActivity implements View.OnClickListener {
 		if(establishConnection(name, password, port) != 0) {
 			return;
 		}
-		
+		gettingUsername = name;
 		personIndex = KP.personTimeslotIndex();
 		
 		stopService(new Intent(this, NetworkService.class));
